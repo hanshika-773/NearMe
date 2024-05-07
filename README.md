@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 # map.html
 <!DOCTYPE html>
 <html>
@@ -45,8 +46,9 @@ Execute the programs and publish them.
     </map>
 </body>
 </html>
-
+```
 # amaravathi.html
+```
 <html>
     <head>
         <title>Amaravati</title>
@@ -60,8 +62,9 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
-
+```
 # visakhapatnam.html
+```
 <html>
     <head>
         <title>Visakhapatnam</title>
@@ -75,8 +78,9 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
-
+```
 # kurnool.html
+```
 <html>
     <head>
         <title>Kurnool</title>
@@ -90,8 +94,9 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
-
+```
 # tirupati.html
+```
 <html>
     <head>
         <title>Tirupati</title>
@@ -105,8 +110,9 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
-
+```
 # Nellore.html
+```
 <html>
     <head>
         <title>Nellore</title>
@@ -120,12 +126,14 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
-
+```
 ## OUTPUT
-
-
-
-
+![Screenshot 2024-05-07 114740](https://github.com/hanshika-773/NearMe/assets/153576501/34ec9a40-2b61-41c8-8cba-72c475630768) 
+![Screenshot 2024-05-07 113624](https://github.com/hanshika-773/NearMe/assets/153576501/499b493d-47db-41fd-ad45-3082c62cb06b)
+![Screenshot 2024-05-07 113956](https://github.com/hanshika-773/NearMe/assets/153576501/7044eecd-de5c-4bb4-8798-fb7c21772868)
+![Screenshot 2024-05-07 114036](https://github.com/hanshika-773/NearMe/assets/153576501/79ec12d0-bb0e-4c50-ac21-250bbd4107fe)
+![Screenshot 2024-05-07 114051](https://github.com/hanshika-773/NearMe/assets/153576501/258cca87-8d8a-443e-bccd-20782ddd716c)
+![Screenshot 2024-05-07 114104](https://github.com/hanshika-773/NearMe/assets/153576501/066919f1-2d29-4877-a59b-b94be3f2e522)
 
 
 
